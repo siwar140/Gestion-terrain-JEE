@@ -1,8 +1,6 @@
-Gestion Terrain - JEE Application
-Overview
+Gestion Terrain, JEE Application
 Gestion Terrain is a comprehensive web application built with Java Enterprise Edition (JEE) for managing sports field reservations, client management, and payment tracking. This application provides a complete solution for sports facility administrators to efficiently manage terrains, clients, reservations, and associated payments.
 
-Features
 Core Functionality
 Client Management: Add, view, and manage client information
 
@@ -15,7 +13,7 @@ Payment Processing: Track and manage payments for reservations
 Advanced Features
 Dashboard: Centralized view of system statistics and recent activities
 
-Football Clients: Specialized view for football-related client management
+Football Clients: Specialized view for football related client management
 
 Reservation Filters:
 
