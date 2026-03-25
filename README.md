@@ -31,7 +31,7 @@ Reservation Management: Delete and modify existing reservations
 
 Payment Modification: Update payment records as needed
 
-🛠️ Technology Stack
+Technology Stack
 Backend
 Java EE (JEE)
 
